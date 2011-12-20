@@ -19,7 +19,9 @@
  * 	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
  * 	GNU General Public License for more details.
  */
+
 // Inspired by class rand_word by Eric Sizemore
+
 /*
  * Instructions:
  * 
